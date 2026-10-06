@@ -4,10 +4,10 @@
 
 | Platform | Problems Solved | Badge |
 | --- | --- | --- |
-| LeetCode | 6 | ![LeetCode](https://img.shields.io/badge/LeetCode-6-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
+| LeetCode | 7 | ![LeetCode](https://img.shields.io/badge/LeetCode-7-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
 | GeeksforGeeks | 0 | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white) |
 | HackerRank | 0 | ![HackerRank](https://img.shields.io/badge/HackerRank-0-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
-| **Total** | **6** | ![Total](https://img.shields.io/badge/Total-6-007ACC?style=flat-square) |
+| **Total** | **7** | ![Total](https://img.shields.io/badge/Total-7-007ACC?style=flat-square) |
 
 ## 📊 My Coding Progress
 
@@ -19,3 +19,4 @@
 | 4 | LeetCode | Find Customer Referee - LeetCode | Medium | [View Code]([LeetCode] Find Customer Referee _ LeetCode/solution.sql) | 10/6/2026 |
 | 5 | LeetCode | Invalid Tweets - LeetCode | Medium | [View Code]([LeetCode] Invalid Tweets _ LeetCode/solution.sql) | 10/6/2026 |
 | 6 | LeetCode | Recyclable and Low Fat Products - LeetCode | Medium | [View Code]([LeetCode] Recyclable and Low Fat Products _ LeetCode/solution.sql) | 10/6/2026 |
+| 7 | LeetCode | Replace Employee ID With The Unique Identifier - LeetCode | Medium | [View Code]([LeetCode] Replace Employee ID With The Unique Identifier _ LeetCode/solution.sql) | 10/6/2026 |
