@@ -4,10 +4,10 @@
 
 | Platform | Problems Solved | Badge |
 | --- | --- | --- |
-| LeetCode | 8 | ![LeetCode](https://img.shields.io/badge/LeetCode-8-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
+| LeetCode | 9 | ![LeetCode](https://img.shields.io/badge/LeetCode-9-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
 | GeeksforGeeks | 0 | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white) |
 | HackerRank | 0 | ![HackerRank](https://img.shields.io/badge/HackerRank-0-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
-| **Total** | **8** | ![Total](https://img.shields.io/badge/Total-8-007ACC?style=flat-square) |
+| **Total** | **9** | ![Total](https://img.shields.io/badge/Total-9-007ACC?style=flat-square) |
 
 ## 📊 My Coding Progress
 
@@ -21,3 +21,4 @@
 | 6 | LeetCode | Product Sales Analysis I - LeetCode | Easy | [View Code]([LeetCode] Product Sales Analysis I _ LeetCode/solution.sql) | 10/6/2026 |
 | 7 | LeetCode | Recyclable and Low Fat Products - LeetCode | Medium | [View Code]([LeetCode] Recyclable and Low Fat Products _ LeetCode/solution.sql) | 10/6/2026 |
 | 8 | LeetCode | Replace Employee ID With The Unique Identifier - LeetCode | Medium | [View Code]([LeetCode] Replace Employee ID With The Unique Identifier _ LeetCode/solution.sql) | 10/6/2026 |
+| 9 | LeetCode | Rising Temperature - LeetCode | Medium | [View Code]([LeetCode] Rising Temperature _ LeetCode/solution.sql) | 10/6/2026 |
