@@ -13,12 +13,12 @@
 
 | # | Platform | Problem | Difficulty | Solution | Date |
 | --- | --- | --- | --- | --- | --- |
-| 1 | LeetCode | Article Views I - LeetCode | Medium | [View Code]([LeetCode] Article Views I _ LeetCode/solution.sql) | 10/6/2026 |
-| 2 | LeetCode | Big Countries - LeetCode | Medium | [View Code]([LeetCode] Big Countries _ LeetCode/solution.sql) | 10/6/2026 |
+| 1 | LeetCode | Article Views I - LeetCode | Easy | [View Code]([LeetCode] Article Views I _ LeetCode/solution.sql) | 10/6/2026 |
+| 2 | LeetCode | Big Countries - LeetCode | Easy | [View Code]([LeetCode] Big Countries _ LeetCode/solution.sql) | 10/6/2026 |
 | 3 | LeetCode | Customer Who Visited but Did Not Make Any Transactions - LeetCode | Easy | [View Code]([LeetCode] Customer Who Visited but Did Not Make Any Transactions _ LeetCode/solution.sql) | 10/6/2026 |
-| 4 | LeetCode | Find Customer Referee - LeetCode | Medium | [View Code]([LeetCode] Find Customer Referee _ LeetCode/solution.sql) | 10/6/2026 |
-| 5 | LeetCode | Invalid Tweets - LeetCode | Medium | [View Code]([LeetCode] Invalid Tweets _ LeetCode/solution.sql) | 10/6/2026 |
+| 4 | LeetCode | Find Customer Referee - LeetCode | Easy | [View Code]([LeetCode] Find Customer Referee _ LeetCode/solution.sql) | 10/6/2026 |
+| 5 | LeetCode | Invalid Tweets - LeetCode | Easy | [View Code]([LeetCode] Invalid Tweets _ LeetCode/solution.sql) | 10/6/2026 |
 | 6 | LeetCode | Product Sales Analysis I - LeetCode | Easy | [View Code]([LeetCode] Product Sales Analysis I _ LeetCode/solution.sql) | 10/6/2026 |
-| 7 | LeetCode | Recyclable and Low Fat Products - LeetCode | Medium | [View Code]([LeetCode] Recyclable and Low Fat Products _ LeetCode/solution.sql) | 10/6/2026 |
-| 8 | LeetCode | Replace Employee ID With The Unique Identifier - LeetCode | Medium | [View Code]([LeetCode] Replace Employee ID With The Unique Identifier _ LeetCode/solution.sql) | 10/6/2026 |
-| 9 | LeetCode | Rising Temperature - LeetCode | Medium | [View Code]([LeetCode] Rising Temperature _ LeetCode/solution.sql) | 10/6/2026 |
+| 7 | LeetCode | Recyclable and Low Fat Products - LeetCode | Easy | [View Code]([LeetCode] Recyclable and Low Fat Products _ LeetCode/solution.sql) | 10/6/2026 |
+| 8 | LeetCode | Replace Employee ID With The Unique Identifier - LeetCode | Easy | [View Code]([LeetCode] Replace Employee ID With The Unique Identifier _ LeetCode/solution.sql) | 10/6/2026 |
+| 9 | LeetCode | Rising Temperature - LeetCode | Easy | [View Code]([LeetCode] Rising Temperature _ LeetCode/solution.sql) | 10/6/2026 |
