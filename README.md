@@ -1,4 +1,4 @@
-# 🏆 JAVA-DSA-A2Z: The Ultimate DSA Portfolio
+# 🏆MY SQL Problem Solving
 
 ## 📊 Coding Statistics
 
