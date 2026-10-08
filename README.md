@@ -4,10 +4,10 @@
 
 | Platform | Problems Solved | Badge |
 | --- | --- | --- |
-| LeetCode | 14 | ![LeetCode](https://img.shields.io/badge/LeetCode-14-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
+| LeetCode | 15 | ![LeetCode](https://img.shields.io/badge/LeetCode-15-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
 | GeeksforGeeks | 0 | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white) |
 | HackerRank | 0 | ![HackerRank](https://img.shields.io/badge/HackerRank-0-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
-| **Total** | **14** | ![Total](https://img.shields.io/badge/Total-14-007ACC?style=flat-square) |
+| **Total** | **15** | ![Total](https://img.shields.io/badge/Total-15-007ACC?style=flat-square) |
 
 ## 📊 My Coding Progress
 
@@ -27,3 +27,4 @@
 | 12 | LeetCode | 577. Employee Bonus | Easy | [View Code]([LeetCode] 577_ Employee Bonus/solution.sql) | 10/8/2026 |
 | 13 | LeetCode | 584. Find Customer Referee | Easy | [View Code]([LeetCode] 584_ Find Customer Referee/solution.sql) | 10/7/2026 |
 | 14 | LeetCode | 595. Big Countries | Easy | [View Code]([LeetCode] 595_ Big Countries/solution.sql) | 10/7/2026 |
+| 15 | LeetCode | 620. Not Boring Movies | Easy | [View Code]([LeetCode] 620_ Not Boring Movies/solution.sql) | 10/8/2026 |
