@@ -4,10 +4,10 @@
 
 | Platform | Problems Solved | Badge |
 | --- | --- | --- |
-| LeetCode | 16 | ![LeetCode](https://img.shields.io/badge/LeetCode-16-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
+| LeetCode | 17 | ![LeetCode](https://img.shields.io/badge/LeetCode-17-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
 | GeeksforGeeks | 0 | ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white) |
 | HackerRank | 0 | ![HackerRank](https://img.shields.io/badge/HackerRank-0-058a5f?style=flat-square&logo=hackerrank&logoColor=white) |
-| **Total** | **16** | ![Total](https://img.shields.io/badge/Total-16-007ACC?style=flat-square) |
+| **Total** | **17** | ![Total](https://img.shields.io/badge/Total-17-007ACC?style=flat-square) |
 
 ## 📊 My Coding Progress
 
@@ -19,13 +19,14 @@
 | 4 | LeetCode | 1280. Students and Examinations | Easy | [View Code]([LeetCode] 1280_ Students and Examinations/solution.sql) | 10/8/2026 |
 | 5 | LeetCode | 1378. Replace Employee ID With The Unique Identifier | Easy | [View Code]([LeetCode] 1378_ Replace Employee ID With The Unique Identifier/solution.sql) | 10/7/2026 |
 | 6 | LeetCode | 1581. Customer Who Visited but Did Not Make Any Transactions | Easy | [View Code]([LeetCode] 1581_ Customer Who Visited but Did Not Make Any Transactions/solution.sql) | 10/7/2026 |
-| 7 | LeetCode | 1661. Average Time of Process per Machine | Easy | [View Code]([LeetCode] 1661_ Average Time of Process per Machine/solution.sql) | 10/8/2026 |
-| 8 | LeetCode | 1683. Invalid Tweets | Easy | [View Code]([LeetCode] 1683_ Invalid Tweets/solution.sql) | 10/7/2026 |
-| 9 | LeetCode | 1757. Recyclable and Low Fat Products | Easy | [View Code]([LeetCode] 1757_ Recyclable and Low Fat Products/solution.sql) | 10/7/2026 |
-| 10 | LeetCode | 1934. Confirmation Rate | Medium | [View Code]([LeetCode] 1934_ Confirmation Rate/solution.sql) | 10/8/2026 |
-| 11 | LeetCode | 197. Rising Temperature | Easy | [View Code]([LeetCode] 197_ Rising Temperature/solution.sql) | 10/7/2026 |
-| 12 | LeetCode | 570. Managers with at Least 5 Direct Reports | Medium | [View Code]([LeetCode] 570_ Managers with at Least 5 Direct Reports/solution.sql) | 10/8/2026 |
-| 13 | LeetCode | 577. Employee Bonus | Easy | [View Code]([LeetCode] 577_ Employee Bonus/solution.sql) | 10/8/2026 |
-| 14 | LeetCode | 584. Find Customer Referee | Easy | [View Code]([LeetCode] 584_ Find Customer Referee/solution.sql) | 10/7/2026 |
-| 15 | LeetCode | 595. Big Countries | Easy | [View Code]([LeetCode] 595_ Big Countries/solution.sql) | 10/7/2026 |
-| 16 | LeetCode | 620. Not Boring Movies | Easy | [View Code]([LeetCode] 620_ Not Boring Movies/solution.sql) | 10/8/2026 |
+| 7 | LeetCode | 1633. Percentage of Users Attended a Contest | Easy | [View Code]([LeetCode] 1633_ Percentage of Users Attended a Contest/solution.sql) | 10/8/2026 |
+| 8 | LeetCode | 1661. Average Time of Process per Machine | Easy | [View Code]([LeetCode] 1661_ Average Time of Process per Machine/solution.sql) | 10/8/2026 |
+| 9 | LeetCode | 1683. Invalid Tweets | Easy | [View Code]([LeetCode] 1683_ Invalid Tweets/solution.sql) | 10/7/2026 |
+| 10 | LeetCode | 1757. Recyclable and Low Fat Products | Easy | [View Code]([LeetCode] 1757_ Recyclable and Low Fat Products/solution.sql) | 10/7/2026 |
+| 11 | LeetCode | 1934. Confirmation Rate | Medium | [View Code]([LeetCode] 1934_ Confirmation Rate/solution.sql) | 10/8/2026 |
+| 12 | LeetCode | 197. Rising Temperature | Easy | [View Code]([LeetCode] 197_ Rising Temperature/solution.sql) | 10/7/2026 |
+| 13 | LeetCode | 570. Managers with at Least 5 Direct Reports | Medium | [View Code]([LeetCode] 570_ Managers with at Least 5 Direct Reports/solution.sql) | 10/8/2026 |
+| 14 | LeetCode | 577. Employee Bonus | Easy | [View Code]([LeetCode] 577_ Employee Bonus/solution.sql) | 10/8/2026 |
+| 15 | LeetCode | 584. Find Customer Referee | Easy | [View Code]([LeetCode] 584_ Find Customer Referee/solution.sql) | 10/7/2026 |
+| 16 | LeetCode | 595. Big Countries | Easy | [View Code]([LeetCode] 595_ Big Countries/solution.sql) | 10/7/2026 |
+| 17 | LeetCode | 620. Not Boring Movies | Easy | [View Code]([LeetCode] 620_ Not Boring Movies/solution.sql) | 10/8/2026 |
